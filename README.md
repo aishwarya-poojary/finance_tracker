@@ -1,3 +1,3 @@
 # README
 
-This is finance tracker app from the complete Ruby on rails developer course
+This is repo for the finance tracker app built by rails 6 from the complete Ruby on rails developer course 
